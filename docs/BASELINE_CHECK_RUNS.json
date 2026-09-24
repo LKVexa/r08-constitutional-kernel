@@ -1,0 +1,24 @@
+{
+ "build": "JY-S001-P001/0.1.1-partial/run-0001",
+ "environment": {
+  "executor": "Claude (claude-fable-5) via Cowork cloud session 01SaQzDRzMFXvRabmCC6JDJD",
+  "python": "3.11.15",
+  "platform": "Linux",
+  "cryptography": "46.0.7"
+ },
+ "checks": [
+  {
+   "id": "unittest",
+   "command": "python3 -m unittest discover -s tests",
+   "result": "PASS 23/23 (18 baseline + 5 maintenance repair tests)",
+   "captured_at": "2026-09-14T18:36:50Z"
+  }
+ ],
+ "unrun_checks": [
+  "hardware trust anchoring (TPM/enclave) \u2014 AF-07 platform decision",
+  "normative coherence metric ratification (AF-14)",
+  "Windows native launch (no Windows runtime this session)",
+  "independent human review"
+ ],
+ "note": "Evidence current for these inputs on this host only."
+}
