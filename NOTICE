@@ -1,0 +1,14 @@
+R08 Constitutional Kernel
+Copyright 2026 RUSSELL PHILIP SMITHSON
+
+Original project code and September 2026 modifications are licensed under the
+Apache License, Version 2.0. See LICENSE.
+
+This product includes a modified expression evaluator from
+amplifier-collection-recipes and a Merkle construction attributed to merklecpp.
+Both donors are Copyright (c) Microsoft Corporation, under the MIT License.
+Full upstream notices remain in r08/vendor/LICENSE.*.txt and
+THIRD-PARTY-NOTICES.md. This NOTICE does not supersede their licenses.
+
+The separately installed cryptography dependency retains its
+Apache-2.0 OR BSD-3-Clause terms.
