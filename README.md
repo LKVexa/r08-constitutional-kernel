@@ -73,7 +73,7 @@ Derived from JY-S001-P001, 0.1.1-partial, run-0001. The supplied snapshot did
 not include the historical STATUS_REPORT.md or full master checklist.
 
 Original project code and September 2026 modifications are under the
-[Apache License 2.0](LICENSE), copyright **RUSSELL PHILIP SMITHSON**.
+[GNU General Public License, version 3 only (GPL-3.0-only)](LICENSE), copyright **RUSSELL PHILIP SMITHSON**.
 The vendored expression evaluator and Merkle construction retain their
 Microsoft MIT attribution. See [NOTICE](NOTICE) and
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).

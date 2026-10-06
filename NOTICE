@@ -2,7 +2,7 @@ R08 Constitutional Kernel
 Copyright 2026 RUSSELL PHILIP SMITHSON
 
 Original project code and September 2026 modifications are licensed under the
-Apache License, Version 2.0. See LICENSE.
+GNU General Public License, version 3 only (GPL-3.0-only). See LICENSE.
 
 This product includes a modified expression evaluator from
 amplifier-collection-recipes and a Merkle construction attributed to merklecpp.
@@ -12,3 +12,8 @@ THIRD-PARTY-NOTICES.md. This NOTICE does not supersede their licenses.
 
 The separately installed cryptography dependency retains its
 Apache-2.0 OR BSD-3-Clause terms.
+
+Licensing update: 2026-10-05. The current repository-level first-party work is
+licensed under GNU GPL version 3 only (SPDX: GPL-3.0-only). Existing third-party
+licenses, attribution and separately licensed components remain in force. This
+update does not purport to revoke licenses already granted for earlier copies.
