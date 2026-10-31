@@ -3,7 +3,7 @@
 **0.1.2a1 — experimental partial implementation**
 
 A local policy kernel for signed proposals, two-party authorization, durable
-settlement, and sticky read-only degraded mode. Copyright 2026
+settlement, and sticky read-only degraded mode. Copyright (C) 2026
 **RUSSELL PHILIP SMITHSON**.
 
 ## Install and test
@@ -77,3 +77,5 @@ Original project code and September 2026 modifications are under the
 The vendored expression evaluator and Merkle construction retain their
 Microsoft MIT attribution. See [NOTICE](NOTICE) and
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+
+See [COPYRIGHT](COPYRIGHT) for the project copyright and GPL notice.
